@@ -4,9 +4,9 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-## English
-
+<details>
+  <summary>## English</summary>
+  
 ### Project Description
 
 This is a simple user management application built with React and Redux Toolkit. The app allows users to:
@@ -34,6 +34,10 @@ As a junior front-end developer, this project helped me learn:
 - ESLint
 
 ---
+
+</details>
+  
+
 
 ## Русский
 
