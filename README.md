@@ -5,6 +5,8 @@
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+![Image](https://github.com/user-attachments/assets/c489c9c2-b68a-4aee-8622-41b00fea3b47)
+
 
 <details>
   <summary>English version</summary>
