@@ -1,9 +1,9 @@
 # Redux Toolkit Users App
 
-![React](https://img.shields.io/badge/React-18.3.1-blue)
-![Redux](https://img.shields.io/badge/Redux-5.0.1-purple)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-2.8.1-purple)
-![Vite](https://img.shields.io/badge/Vite-5.4.9-yellow)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ## English
 
